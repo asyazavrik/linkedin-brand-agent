@@ -2,12 +2,8 @@ name: Morning digest
 
 on:
   schedule:
-    # 7:30 МСК = 4:30 UTC (Москва UTC+3 круглый год)
     - cron: "30 4 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   digest:
