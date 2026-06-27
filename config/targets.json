@@ -1,29 +1,29 @@
 {
   "people": [
     {
-      "name": "Алёна Чегодаева",
+      "name": "Alena Chegodaeva",
       "company": "R-Pharm",
       "linkedin_url": "https://www.linkedin.com/in/%D0%B0%D0%BB%D1%91%D0%BD%D0%B0-%D1%87%D0%B5%D0%B3%D0%BE%D0%B4%D0%B0%D0%B5%D0%B2%D0%B0-459256123/",
-      "notes": "русскоязычные посты, фарма"
+      "notes": "pharma"
     },
     {
       "name": "Dmitry G.",
-      "company": "АО Фарм-Синтез",
+      "company": "Farm-Sintez",
       "linkedin_url": "https://www.linkedin.com/in/dmitry-g-a31b93a/",
-      "notes": "русскоязычные посты, фарма"
+      "notes": "pharma"
     },
     {
       "name": "Vitalii Dembrovskii",
-      "company": "Innovative Market Access & Health Economic Consulting",
+      "company": "Market Access Consulting",
       "linkedin_url": "https://www.linkedin.com/in/vitalii-dembrovskii-a21a0527/",
-      "notes": "русскоязычные посты, фарма"
+      "notes": "pharma"
     },
     {
       "name": "Evgeniia Bronnikova",
       "company": "HR Next Step",
       "linkedin_url": "https://www.linkedin.com/in/evgeniia-bronnikova-hrd/",
-      "notes": "HR, русскоязычные посты"
+      "notes": "HR"
     }
   ],
-  "rotation_hint": "Каждый день бот напоминает проверить 5 человек. Цель — 30."
+  "rotation_hint": "5 people per day rotation"
 }
